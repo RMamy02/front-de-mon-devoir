@@ -1,0 +1,268 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background: turquoise;
+    width: 100%;
+    height: 100%;
+}
+.second{
+    background:rgb(147, 99, 71);
+    width: 100%;
+    height: 100px;
+}
+.second h1{
+    color: #fff;
+    font-size: 55px;
+    margin-top: -4.5%;
+    margin-left: 6%;
+    letter-spacing: 3px;
+}
+.second img{
+    margin-top: 1.9%;
+    margin-left: 2%;
+}
+ input{
+    position: relative;
+    left: 75%;
+    width: 10%;
+    height: 30px;
+    top: -35%;
+}
+.mot-de-passe{
+    position: relative;
+    margin-left: 20px;
+}
+.third{
+    background:rgb(121, 132, 182);
+    width: 100%;
+    height: 50px;
+    margin-top: -4%;
+}
+.third ul{
+    position: relative;
+    margin-left: 70%;
+    text-decoration: none;
+    list-style: none;
+    color: #fff;
+}
+.third ul li{
+    position: relative;
+    display: inline-block;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 3px;
+    margin-top: 2%;
+}
+.recherche{
+    background: rgba(0, 139, 139,0.8);
+    width: 96%;
+    height: 50px;
+    margin: 2%;
+}
+.recherche h4{
+    color: white;
+    font-size: 20px;
+}
+.chiffre1 {
+    background: rgba(70, 50, 160, 0.9);
+    padding: 9px;
+}
+.chiffre2{
+    background: rgba(70, 50, 160, 0.9);
+    padding: 9px;
+}
+.chiffre3{
+    background: rgba(70, 50, 160, 0.9);
+    padding: 9px;
+}
+.chiffre4{
+    background: rgba(70, 50, 160, 0.9);
+    padding: 9px;
+}
+.cadre1{
+    background: seagreen;
+    width: 20%;
+    height: 100px;
+    margin-left: 10%;
+}
+
+h3{
+    color: white;
+    text-align: center;
+}
+.cadre2{
+    background: seagreen;
+    width: 20%;
+    height: 100px;
+    margin-left: 40%;
+    margin-top: -7%;
+}
+.cadre3{
+    background: seagreen;
+    width: 20%;
+    height: 100px;
+    margin-left: 70%;
+    margin-top: -7%;
+}
+.cadre4{
+    background: seagreen;
+    width: 20%;
+    height: 100px;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.cadre5{
+    background: seagreen;
+    width: 20%;
+    height: 100px;
+    margin-left: 40%;
+    margin-top: -7%;
+}
+.cadre6{
+    background: seagreen;
+    width: 20%;
+    height: 100px;
+    margin-left: 70%;
+    margin-top: -7%;
+}
+footer .last-cadre{
+    background: rgb(147, 99, 71);
+    width: 100%;
+    height: 150px;
+}
+footer .last-cadre .image-footer {
+    position: relative;
+    margin-top: -10%;
+}
+.last{
+    width: 100%;
+    height: 20px;
+    background: white;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+}
+.card1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 25%;
+    text-align: center;
+    margin-left: 2%;
+  } 
+  button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  button:hover, a:hover {
+    opacity: 0.7;
+  }
+
+.card2 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 25%;
+    text-align: center;
+    margin-left: 36%;
+    margin-top: -18%;
+  }
+.seconds{
+    position: relative;
+    margin-top: 5%;
+}
+.seconds a{
+    position: relative;
+    margin-left: 12%;
+    top: -30%;
+    text-align: center;
+}
+.card3 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 25%;
+    text-align: center;
+    margin-left: 70%;
+    margin-top: -18%;
+  } 
+.cadre1 img{
+      margin-left: -35%;
+  }
+.cadre2 img{
+      margin-left: -35%;
+  }
+.cadre3 img{
+    margin-left: -35%;
+}
+.cadre4 img{
+    margin-left: -35%;
+}
+.cadre5 img{
+    margin-left: -35%;
+}
+.cadre6 img{
+    margin-left: -35%;
+}
+.logo2 {
+    position: relative;
+    top: -10%;
+    left: 2%;
+}
+.icone1 {
+    width: 96%;
+    height: 50px;
+}
+.last-cadre ul li{
+    text-decoration: none;
+    display: inline-block;
+}
+.logo{
+    margin-left: 2%;
+}
+.description {
+    display: flex;
+    margin-left: 2%;
+    width: 60%;
+    border-left: 6px solid white;
+    padding: 0 30spx;
+}
+.reseau{
+    display: flex;
+    border-left:6px solid white;
+}
+.reseau h4{
+    display: flex;
+    margin-left: 36%;
+    color: rgb(216, 158, 11);
+    font-size: 20px;
+}
+.description h4{
+    display: flex;
+    margin-left: 5%;
+    color: rgb(216, 158, 11);
+    font-size: 20px;
+}
+.flexbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flexnest{
+    display: flex;
+    justify-content: center;
+    color: rgb(216, 158, 11);
+    align-items: center;
+    font-size: 20px;
+}
+.icone-recherche{
+    margin-left: 93.1%;
+    margin-top: -1.6%;
+}
